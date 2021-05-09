@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Donald Duck",
+      "image": "https://static.wikia.nocookie.net/disney/images/d/db/Donald_Duck_Iconic.png",
+      "likes": 2,
+      "id": 9
     }
   ]
 }
